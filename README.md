@@ -1,4 +1,75 @@
-## Hi there 👋
+# 👋 Hello, I'm Niyati Raiyani
+
+### 🎓 Second-Year B.Tech Student in Artificial Intelligence & Machine Learning
+
+I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy exploring new technologies, solving programming challenges, and building projects that help me grow as a developer.
+
+---
+
+## 🌟 Who Am I?
+
+- 🎓 Second-Year B.Tech AI & ML Student
+- 💡 Passionate about Artificial Intelligence & Software Development
+- 🧩 Interested in Data Structures & Algorithms
+- 🚀 Learning by building real-world projects
+- 📚 Always curious to learn something new
+
+---
+
+## 🛠️ Tech Stack
+
+- ☕ Java
+- 🐍 Python
+- 💻 C++
+- 🌐 HTML & CSS
+- 🔧 Git & GitHub
+- 🤖 Machine Learning (Beginner)
+- 📖 Data Structures & Algorithms
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Java
+- Data Structures & Algorithms
+- Machine Learning
+- Artificial Intelligence
+- Web Development
+- Git & GitHub
+
+---
+
+## 🎯 My Mission
+
+- 💼 Secure a great internship
+- 🚀 Become a Software Engineer
+- 🤖 Build impactful AI & ML projects
+- 🌍 Contribute to Open Source
+- 📈 Keep improving every single day
+
+---
+
+## 🌐 Let's Connect
+
+- GitHub: https://github.com/NiyatiRaiyani
+- LinkedIn: Coming Soon...
+- Email: Coming Soon...
+
+---
+
+# 📊 GitHub Analytics
+
+(Stats, Streak, Top Languages)
+
+# 🏆 Achievements
+
+(GitHub Trophies)
+
+# 📈 Contribution Graph
+
+(Activity Graph)
+
+⭐ *"Every line of code I write is one step closer to my dream."*
 
 <!--
 **NiyatiRaiyani/NiyatiRaiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
