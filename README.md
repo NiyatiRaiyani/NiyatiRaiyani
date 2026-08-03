@@ -59,7 +59,8 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 
 # 📊 GitHub Analytics
 
-(Stats, Streak, Top Languages)
+<img width="615" height="242" alt="image" src="https://github.com/user-attachments/assets/2b069c44-2902-4113-b182-5af06becb6da" />
+
 
 # 🏆 Achievements
 
