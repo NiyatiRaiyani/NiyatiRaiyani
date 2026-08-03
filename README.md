@@ -9,7 +9,7 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 ## 🌟 Who Am I?
 
 - 🎓 Second-Year B.Tech AI & ML Student
-- 💡 Passionate about Artificial Intelligence & Software Development
+- 💡 Passionate about Artificial Intelligence & Machine Learning
 - 🧩 Interested in Data Structures & Algorithms
 - 🚀 Learning by building real-world projects
 - 📚 Always curious to learn something new
@@ -21,9 +21,8 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 - ☕ Java
 - 🐍 Python
 - 💻 C++
-- 🌐 HTML & CSS
+- 🌐 HTML & CSS 
 - 🔧 Git & GitHub
-- 🤖 Machine Learning (Beginner)
 - 📖 Data Structures & Algorithms
 
 ---
@@ -32,10 +31,10 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 
 - Advanced Java
 - Data Structures & Algorithms
-- Machine Learning
 - Artificial Intelligence
 - Web Development
 - Git & GitHub
+- JavaScript
 
 ---
 
@@ -49,11 +48,11 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect to me
 
 - GitHub: https://github.com/NiyatiRaiyani
-- LinkedIn: Coming Soon...
-- Email: Coming Soon...
+- LinkedIn: https://www.linkedin.com/in/niyatiraiyani/
+- Email: niyatiraiyani42@gmail.com
 
 ---
 
