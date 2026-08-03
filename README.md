@@ -61,13 +61,15 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 <img width="615" height="242" alt="image" src="https://github.com/user-attachments/assets/2b069c44-2902-4113-b182-5af06becb6da" />
 
 
-# 🏆 Achievements
+# 📈 Contribution 
 
-(GitHub Trophies)
+<img width="906" height="205" alt="image" src="https://github.com/user-attachments/assets/82503841-ba55-49a7-ace6-e3e19a6722aa" />
+
 
 # 📈 Contribution Graph
 
-(Activity Graph)
+<img width="1496" height="522" alt="image" src="https://github.com/user-attachments/assets/5b266720-43b1-4d87-803f-4fdf3288df4c" />
+
 
 ⭐ *"Every line of code I write is one step closer to my dream."*
 
