@@ -63,8 +63,8 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 
 # 📈 Contribution 
 
-<img width="906" height="205" alt="image" src="https://github.com/user-attachments/assets/82503841-ba55-49a7-ace6-e3e19a6722aa" />
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiyatiRaiyani&bg_color=1a1b27&color=ffffff&line=58a6ff&point=ff7b8a&area=true&hide_border=true)
 
 # 📈 Contribution Graph
 
