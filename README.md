@@ -53,10 +53,10 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 - GitHub: https://github.com/NiyatiRaiyani
 - LinkedIn: https://www.linkedin.com/in/niyatiraiyani/
 - Email: niyatiraiyani42@gmail.com
+  
+## 🔥 GitHub Streak
 
-# 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiyatiRaiyani&bg_color=1a1b27&color=ffffff&line=58a6ff&point=ff7b8a&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.vercel.app/?user=NiyatiRaiyani&theme=dark&hide_border=true)
 
 
 # 📈 Contribution Graph
