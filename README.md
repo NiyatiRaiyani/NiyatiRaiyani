@@ -68,7 +68,7 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 
 # 📈 Contribution Graph
 
-<img width="1496" height="522" alt="image" src="https://github.com/user-attachments/assets/5b266720-43b1-4d87-803f-4fdf3288df4c" />
+https://github-readme-activity-graph.vercel.app/graph?username=NiyatiRaiyani&utm_source=chatgpt.com
 
 
 ⭐ *"Every line of code I write is one step closer to my dream."*
