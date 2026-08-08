@@ -54,22 +54,14 @@ I am an enthusiastic AI & ML student who loves turning ideas into code. I enjoy 
 - LinkedIn: https://www.linkedin.com/in/niyatiraiyani/
 - Email: niyatiraiyani42@gmail.com
 
----
-
-# 📊 GitHub Analytics
-
-<img width="615" height="242" alt="image" src="https://github.com/user-attachments/assets/2b069c44-2902-4113-b182-5af06becb6da" />
-
-
-# 📈 Contribution 
-
+# 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiyatiRaiyani&bg_color=1a1b27&color=ffffff&line=58a6ff&point=ff7b8a&area=true&hide_border=true)
 
+
 # 📈 Contribution Graph
 
-https://github-readme-activity-graph.vercel.app/graph?username=NiyatiRaiyani&utm_source=chatgpt.com
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiyatiRaiyani&bg_color=1a1b27&color=ffffff&line=58a6ff&point=ff7b8a&area=true&hide_border=true)
 
 ⭐ *"Every line of code I write is one step closer to my dream."*
 
